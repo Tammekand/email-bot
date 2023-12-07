@@ -1,0 +1,6 @@
+/venv
+.env
+secret.py
+cv.pdf
+data.xlsx
+/__pycache__/
